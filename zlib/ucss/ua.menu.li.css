@@ -1,0 +1,10 @@
+a{
+    text-decoration: none;
+    color: navy;
+    cursor: pointer;
+}
+
+menu,li{
+    margin: 5px;
+    padding: 5px;
+}
